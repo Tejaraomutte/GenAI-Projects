@@ -1,0 +1,22 @@
+ML 
+Machine Learning (ML) is a field of Artificial Intelligence (AI) that gives computers the ability to learn from data and improve performance on tasks without being explicitly programmed for every scenario, using algorithms to find patterns, make predictions, and build models for classification or regression. It's a core component of AI, enabling systems to adapt and make intelligent decisions by analyzing vast datasets, finding hidden insights, and enhancing their accuracy over time as they are exposed to more information, powering everything from recommendation engines to medical diagnostics. [1, 2, 3, 4, 5]  
+How it Works 
+
+1. Data Input: Algorithms are fed large amounts of labeled (supervised) or unlabeled (unsupervised) data. 
+2. Pattern Recognition: The algorithm processes this data to identify trends, features, and relationships. 
+3. Model Training: It builds a "model" (a mathematical representation) that captures these learned patterns. 
+4. Prediction/Decision: The model is then used to make predictions or decisions on new, unseen data, improving with more experience. [2, 3, 4, 5, 6]  
+
+Key Types 
+
+• Supervised Learning: Learns from labeled data (e.g., images of cats labeled "cat") to predict outcomes. 
+• Unsupervised Learning: Finds hidden structures in unlabeled data (e.g., customer segmentation). 
+• Deep Learning: Uses multi-layered neural networks (inspired by the brain) for complex pattern recognition, a subset of ML. [6, 7, 8, 9]  
+
+Common Applications 
+
+• Personalization: Netflix/Amazon recommendations. 
+• Computer Vision: Image and facial recognition. 
+• Natural Language Processing (NLP): Email filtering, chatbots. 
+• Healthcare: Disease diagnosis, medical imaging analysis. 
+• Finance: Fraud detection, algorithmic trading. [4, 5, 6, 10, 11]  
